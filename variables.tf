@@ -1,4 +1,5 @@
 variable "project" {}
+variable "region" {}
 variable "multi_az" {
   default = false
 }
