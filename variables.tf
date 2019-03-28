@@ -1,6 +1,6 @@
 variable "project" {}
 variable "multi_az" {
-  default = false
+  default = true
 }
 variable "rds" {
   default = false
