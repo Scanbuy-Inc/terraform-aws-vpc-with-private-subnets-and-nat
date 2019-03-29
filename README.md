@@ -1,7 +1,7 @@
 ## About
 Terraform module to bootstrap AWS VPC. 
 
-![Structure:]((https://github.com/Scanbuy-Inc/terraform-aws-vpc-with-private-subnets-and-nat/blob/customized/ops_vpc_structure.png)
+![Structure:](https://github.com/Scanbuy-Inc/terraform-aws-vpc-with-private-subnets-and-nat/blob/customized/ops_vpc_structure.png)
 
 Features:
 * Private and public subnets
